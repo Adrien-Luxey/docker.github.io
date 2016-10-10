@@ -22,7 +22,7 @@ If you want only Docker Machine, you can install the Machine binaries directly b
 
 ## Installing Machine Directly
 
-1.  Install <a href="https://docs.docker.com/installation/"
+1.  Install <a href="https://docs.docker.com/engine/installation/"
     target="_blank">the Docker binary</a>.
 
 2.  Download the Docker Machine binary and extract it to your PATH.
